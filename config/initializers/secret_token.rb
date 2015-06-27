@@ -1,0 +1,3 @@
+GreatApp::Application.config.secret_key_base = '7963c5099102d9bb8b9c27b783cdff1518ede99bf1eb1e13b00b3861728c7d32614b88640fac8ee2
+ff0b9c74f4fd6c9640202ff85e6e3e4671e6cd319b92825e'
+
